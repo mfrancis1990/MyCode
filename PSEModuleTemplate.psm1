@@ -25,7 +25,7 @@ function <FunctionName> {
 			PowerShell date object
 		.NOTES
 			Added in version 0.1
-			Updated to include date argument in 0.3.5
+			Updated to include date argument in 0.3.5 testing
 	#>
 	Param	(
 		[parameter(Mandatory=$false)]$date,
